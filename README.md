@@ -28,9 +28,10 @@ Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript** e **R
 
 ## Minhas tecnologias até agora:
 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="25" style="vertical-align:middle;"/>  
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="25" style="vertical-align:middle;"/>  
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="25" style="vertical-align:middle;"/>  
-<img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="25" style="vertical-align:middle;"/>
-
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="40" style="display: inline-block; margin-right: 15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="40" style="display: inline-block; margin-right: 15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40" style="display: inline-block; margin-right: 15px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="40" style="display: inline-block;"/>
+</div>
 
