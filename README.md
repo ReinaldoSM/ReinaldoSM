@@ -20,6 +20,12 @@ Aqui está o link para o meu perfil no LinkedIn:
 
 ---
 
+## 🎯 Meu Objetivo
+
+Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript** e **React**, construindo projetos práticos para ganhar experiência real e me tornar um desenvolvedor Front-End completo.
+
+---
+
 ## Minhas tecnologias até agora:
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="25" style="vertical-align:middle;"/>  
