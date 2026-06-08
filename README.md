@@ -27,10 +27,4 @@ Aqui está o link para o meu perfil no LinkedIn:
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="25" style="vertical-align:middle;"/>  
 <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" width="25" style="vertical-align:middle;"/>
 
-## 📊 Estatísticas do GitHub
 
-![Reinaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinaldo-s-moraes&show_icons=true&theme=radical)
-
-## 🛠️ Linguagens mais usadas
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinaldoSM&layout=compact&theme=radical)
