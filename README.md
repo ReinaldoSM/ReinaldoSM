@@ -5,7 +5,7 @@ Sou um desenvolvedor **Front-End** em aprendizado, apaixonado por criar interfac
 
 - 🎨 **CSS3**  
 
-- ⚙️ Iniciando o aprendizado de **JavaScript**  
+- ⚙️ Terminando **JavaScript**  
 
 - ⚛️ Estudando **React**
 
